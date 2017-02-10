@@ -11,6 +11,9 @@ and open the template in the editor.
         <link rel="stylesheet" href="assets/css/bootstrap.css">
     </head>
     <body>
+        
+        test xavier 
+        
 	<nav class="navbar navbar-inverse">
       <div class="container">
         <div class="navbar-header">
